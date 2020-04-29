@@ -7,6 +7,6 @@
 <title>이얏호</title>
 </head>
 <body>
-	한시간 나았다
+	쉬는시간입니다 쌤
 </body>
 </html>
